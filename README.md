@@ -15,6 +15,7 @@ Requires:
 * To test, run `npm test`. 
 
 ### How to use API
+* Create your own .env files with the .env.example files provided in the root of the project and the test folder. Enter the correct MongoDB URI. Port is currently set to 3000, you may update it to your port of choice.
 * Connect to server with `npm run start`.
 * Enter `http://localhost:3000` in your browser.
 * Our API saves two resources to MongoDB: Cakes and Pies. To see our data, click the links provided on the splash page.
