@@ -17,7 +17,7 @@ Requires:
 ### How to use API
 * Connect to server with `npm run start`.
 * Enter `http://localhost:3000` in your browser.
-* Our API saves two resources to MongoDB: Cakes and Pies. To see our data, click the links provided on our page.
+* Our API saves two resources to MongoDB: Cakes and Pies. To see our data, click the links provided on the splash page.
 
 The following methods are used for the paths listed:
 
@@ -29,7 +29,7 @@ Method | Path
 `PUT` |     `/<resources>/:id`
 `DELETE` |  `/<resources>/:id`
 
-## Contributor
+## Contributors
 [Mariah Adams](https://github.com/MariahAdams) & [Sarah Rehmer](https://github.com/Rehmsy)
 
 ## License
